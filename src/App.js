@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.cssgit init";
+import "./App.css";
 import Crossword, {
   Grid,
   Cell,
