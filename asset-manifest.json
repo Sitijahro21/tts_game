@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tts_game/static/css/main.fc5c2c69.css",
+    "main.js": "/tts_game/static/js/main.7ceeead6.js",
+    "index.html": "/tts_game/index.html",
+    "main.fc5c2c69.css.map": "/tts_game/static/css/main.fc5c2c69.css.map",
+    "main.7ceeead6.js.map": "/tts_game/static/js/main.7ceeead6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.7ceeead6.js"
+  ]
+}
